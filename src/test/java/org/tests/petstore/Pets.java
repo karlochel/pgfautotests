@@ -29,6 +29,9 @@ public class Pets {
             .setStatus(PetStatus.available)
             .buildJsonString();
 
+    /**
+     * Check if new pet is added properly
+     */
     @Test
     public void addNewPet() {
         given()
