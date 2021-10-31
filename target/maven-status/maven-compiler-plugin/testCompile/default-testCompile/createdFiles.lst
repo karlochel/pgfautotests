@@ -1,0 +1,14 @@
+org\tests\petstore\model\PetStatus.class
+org\tests\petstore\model\OrderStatus.class
+org\tests\petstore\model\request\builders\CategoryBuilder.class
+org\tests\petstore\model\Category.class
+org\tests\petstore\Pets.class
+org\tests\petstore\model\request\builders\OrderRequestBuilder.class
+org\tests\petstore\model\request\builders\TagBuilder.class
+org\tests\petstore\model\request\PetRequest.class
+org\tests\petstore\model\Tag.class
+org\tests\petstore\model\JsonParser.class
+org\tests\petstore\model\request\builders\PetRequestBuilder.class
+org\tests\petstore\Store.class
+org\tests\petstore\User.class
+org\tests\petstore\model\request\OrderRequest.class
